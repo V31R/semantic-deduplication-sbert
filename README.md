@@ -4,7 +4,13 @@ This repository contains the result of a test assignment for an ML Engineer posi
 The task is focused on **semantic deduplication of product descriptions** using **SBERT embeddings** and **cosine similarity**.
 
 ---
+## 🔗 Просмотр ноутбука онлайн / View Notebook Online
 
+📘 Вы можете просмотреть Jupyter Notebook онлайн через [nbviewer](https://nbviewer.org/github/V31R/semantic-deduplication-sbert/blob/master/e_commerce_deduplication_sbert.ipynb) без необходимости скачивания или запуска среды.
+
+📘 You can view the Jupyter Notebook online via [nbviewer](https://nbviewer.org/github/V31R/semantic-deduplication-sbert/blob/master/e_commerce_deduplication_sbert.ipynb) without downloading or running it locally.
+
+---
 ## Контекст
 
 Этот проект был выполнен в рамках тестового задания на позицию ML-инженера, связанного с задачей **семантического дедубликации карточек товаров**.
